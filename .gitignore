@@ -1,3 +1,19 @@
 .env
 
 .env.local
+
+
+# Virtual environment
+venv/
+ENV/
+.env/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# VS Code settings (optional)
+.vscode/
